@@ -1,0 +1,132 @@
+- slide: 1
+  type: title
+  title: BrickRate
+  subtitle: Real-Time Construction Cost Estimator for Plots & Homes
+  background_color: '#2980b9'
+- slide: 2
+  type: content
+  title: Executive Summary
+  bullets:
+  - AI-powered platform for Tier 2/3 cities in India
+  - Instant cost estimates for 1BHK, 2BHK, larger homes
+  - Uses ML trained on localized Bills of Quantity (BoQ)
+  - Solves uncertainty in construction budgeting
+  - Benefits plot buyers, builders, and architects
+- slide: 3
+  type: content
+  title: Market Overview
+  bullets:
+  - 48% of residential searches in 2024 were for plots
+  - Massive shift to plot ownership in Tier 2/3 cities
+  - 'Rate variation: ₹500-₹1,200/sq.ft within same city'
+  - 80% of contractors spend 25%+ time on manual quotes
+  - No platform exists for instant, hyper-local estimates
+  stats:
+    plot_searches: 48%+
+    time_waste: 25-30%
+    price_variation: ₹500-₹1,200/sq.ft
+- slide: 4
+  type: content
+  title: Problem Statements
+  bullets:
+  - Plot buyers lack quick cost visibility
+  - Builders waste time on non-serious leads
+  - Construction costs vary locally & change frequently
+  - No affordable tools for building feasibility
+  - No integrated solution for quick budget planning
+- slide: 5
+  type: content
+  title: Supply-Demand Analysis
+  bullets:
+  - 'Demand: 15-20% YoY increase in plot purchases (Tier 2/3)'
+  - 25% annual growth in rental housing interest
+  - 60% of builders lose 30%+ hours on non-converting quotes
+  - 'Supply: Limited real-time construction cost tools'
+  - 18% CAGR growth in digital construction tech (McKinsey)
+- slide: 6
+  type: content
+  title: BrickRate Solution
+  bullets:
+  - Plot Input & Dimension Capture (upload or manual entry)
+  - ML-Based Cost Estimation Engine
+  - Instant, transparent cost breakdown
+  - Build-Type Selector (1BHK, 2BHK, kothi)
+  - Save & Share Quote functionality
+- slide: 7
+  type: content
+  title: Target Users
+  bullets:
+  - 'Primary: Tier 2/3 city plot buyers'
+  - Small builders and contractors
+  - Real estate investors (build-to-rent strategies)
+  - Architects and engineers
+  - Anyone planning residential construction
+- slide: 8
+  type: content
+  title: Why It Doesn't Exist Yet
+  bullets:
+  - Construction data is fragmented and offline
+  - Automating BoQ estimation requires complex ML & rich data
+  - No unified local cost database exists
+  - Fragmented buyer/builder needs with no dedicated tools
+  - No existing platform for Tier 2/3 markets
+- slide: 9
+  type: content
+  title: Market Size & Opportunity
+  bullets:
+  - 40% of all plot sales in Tier 2/3 cities
+  - 10 million plots bought annually in India
+  - 70% of residential construction by individual plot owners
+  - 60%+ smartphone penetration in Tier 2/3 cities
+  - Conservative 10% adoption = 1 million potential users
+- slide: 10
+  type: content
+  title: Competitive Landscape
+  bullets:
+  - 'Traditional manual estimation: slow, inconsistent'
+  - 'Generic calculators: not localized, outdated'
+  - 'Enterprise software: expensive, complex'
+  - 'BrickRate: Real-time, AI-powered, location-specific'
+  - Built specifically for Tier 2/3 residential market
+- slide: 11
+  type: content
+  title: Go-To-Market Strategy
+  bullets:
+  - 'Digital Marketing: Social media, Google Ads'
+  - 'Partnerships: Real estate brokers, suppliers, builders'
+  - 'Content Marketing: Regional language content'
+  - 'Distribution: Mobile-first web app and Android app'
+  - WhatsApp Business API integration
+- slide: 12
+  type: content
+  title: Revenue Model
+  bullets:
+  - 'Freemium: Basic features free, premium paid'
+  - Lead generation fees from builders accessing qualified buyers
+  - Material supplier API integration (commissions)
+  - Value-added services (project management, financing)
+  - Scalable, multi-stream revenue approach
+- slide: 13
+  type: content
+  title: MVP Development Timeline
+  bullets:
+  - 'Phase 1: Input & Basic UI (4-6 hours)'
+  - 'Phase 2: ML Model Integration (8-10 hours)'
+  - 'Phase 3: Cost Breakdown & Layout Selection (6-8 hours)'
+  - 'Phase 4: Save & Share Functionality (2-4 hours)'
+  - 'Phase 5: Polish & Performance (2-3 hours)'
+  - 'Total: 20-30 hours for functional MVP'
+- slide: 14
+  type: content
+  title: Conclusion
+  bullets:
+  - BrickRate addresses critical pain point in Tier 2/3 markets
+  - AI-driven, localized, transparent cost estimation
+  - Empowers buyers and builders for faster decisions
+  - Strong market fit with scalable revenue streams
+  - Positioned to become the go-to platform for affordable home construction
+- slide: 15
+  type: closing
+  title: Thank You
+  subtitle: Questions?
+  background_color: '#34495e'

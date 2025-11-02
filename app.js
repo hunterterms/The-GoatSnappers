@@ -84,7 +84,7 @@ ctaButtons.forEach(button => {
         // Check if it's not a navigation button
         if (!button.classList.contains('nav-cta') && button.textContent.includes('Estimator')) {
             e.preventDefault();
-            alert('Welcome to BrickRate! 🏗️\n\nOur estimator is coming soon.\nEnter your email below to get early access!');
+            alert('Our estimator is coming soon.\nEnter your email below to get early access.');
             
             // Scroll to CTA section
             const ctaSection = document.querySelector('.cta-section');
